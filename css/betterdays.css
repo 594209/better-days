@@ -6,7 +6,6 @@ body{
 	text-align: center;
 	border: 60px solid #fdc743;
 	max-width: 768px;
-	box-sizing: border-box;
 }
 
 
@@ -61,8 +60,3 @@ p {
   cursor: pointer
 }
 
-.main {
-  width: 100%;
-  float: left;
-  padding: 0px;
- 
