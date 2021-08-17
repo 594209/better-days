@@ -4,21 +4,12 @@ body{
 	background-color: #32647d;
 	color:  #fdc743;
 	text-align: center;
-	border: 20px solid #fdc743;
-	max-width: 769px;
+	border: 60px solid #fdc743;
+	max-width: 768px;
 }
-
-
-
-div {
-  max-width: 500px;
-  height: 100px;
-  background-color: powderblue;
-}
-
 
 h1{
-	font-size: 140px;
+	font-size: 135px;
 	text-align: center;
 	font-family: 'Spicy Rice', cursive;
 }
@@ -59,12 +50,12 @@ p {
   background-color: #fdc743;
   border: none;
   color: #32647d;
-  padding: 11px 20px;
+  padding: 20px 30px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
+  font-size: 50px;
+  margin: 2px 2px;
   cursor: pointer
 }
 
